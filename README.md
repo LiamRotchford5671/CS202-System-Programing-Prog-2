@@ -7,7 +7,7 @@ This program implements Dynamic binding (upcasting, downcasting). The specfic he
 
 Data Structure: doubly linked list
 
-    Heirarachy 1:
+    Heirarachy 1:   (transportation is a abstract base class)
     
         Transportation   Transportation    Transportation
                |                |                |
